@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TrueSGNL
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sudeep
+Implementation-Vendor-Id: com.eeposit
+Build-Jdk: 1.8.0_77
+Implementation-URL: http://projects.spring.io/spring-boot/true_sgnl/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
